@@ -1,2 +1,3 @@
 This is the first line in File1.
 Adding a second line to File1 and pressing the Save button!
+Here's line 3 added on GitHub
